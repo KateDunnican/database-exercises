@@ -1,7 +1,4 @@
 
--- codeup_test_use pw = *YoMama123
--- codeup_test_db
-
 USE codeup_test_db;
 
 DROP TABLE IF EXISTS albums;
