@@ -1,3 +1,5 @@
+-- codeup_test_user *YoMama123
+-- codeup_test_db
 
 USE codeup_test_db;
 
