@@ -1,4 +1,6 @@
-USE codeup_test_db;
+CREATE DATABASE join_test_db;
+-- command A (highlights all), then command enter to run highlighted code
+USE join_test_db;
 
 CREATE TABLE roles (
   id INT UNSIGNED NOT NULL AUTO_INCREMENT,
